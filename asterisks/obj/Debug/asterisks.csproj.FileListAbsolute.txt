@@ -1,0 +1,6 @@
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\bin\Debug\asterisks.exe.config
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\bin\Debug\asterisks.exe
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\bin\Debug\asterisks.pdb
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\obj\Debug\asterisks.exe
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\obj\Debug\asterisks.pdb
+c:\users\michaelforsberg\documents\visual studio 2013\Projects\asterisks\asterisks\obj\Debug\asterisks.csprojResolveAssemblyReference.cache
